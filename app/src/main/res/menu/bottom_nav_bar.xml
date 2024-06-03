@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/news"
+        android:icon="@drawable/ic_news"
+        android:orderInCategory="1"
+        android:title="Новости">
+    </item>
+    <item
+        android:id="@+id/calendar"
+        android:icon="@drawable/ic_calendar"
+        android:orderInCategory="2"
+        android:title="Календарь">
+    </item>
+    <item
+        android:id="@+id/events"
+        android:icon="@drawable/ic_events"
+        android:orderInCategory="3"
+        android:title="Мероприятия">
+    </item>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:orderInCategory="4"
+        android:title="Профиль">
+    </item>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_setting"
+        android:orderInCategory="5"
+        android:title="Настройки">
+    </item>
+</menu>
